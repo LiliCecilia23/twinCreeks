@@ -1,6 +1,6 @@
 # 🛠 Twin Creeks Builders 🛠 
 This website is a freelance project from a local carpentry company. It is designed for a simple and intuitive customer experience to help Twin Creeks grow their customer base. 
-This was a collaborative effort with [Lili Clift](https://github.com/LiliCecilia23) 
+This was a collaborative effort with [Ashli Hanson](https://github.com/ashlinhanson) 
 # 🔍[Check it out!](https://ashlinhanson.github.io/twinCreeks/)🔎
 ![Landing](assets/landing.png)
 
